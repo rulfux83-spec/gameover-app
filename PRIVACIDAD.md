@@ -1,6 +1,6 @@
 # Política de privacidad de Game Over App
 
-Última actualización: 12/10/2026
+Última actualización: 14/10/2026
 
 Game Over App es una aplicación de escritorio para Windows creada por **rulink007** para pilotos de simracing (iRacing y Automobilista 2). Esta política explica qué datos usa la app, para qué y dónde quedan.
 
