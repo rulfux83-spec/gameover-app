@@ -1,10 +1,10 @@
 # Política de privacidad de Game Over App
 
-Última actualización: 19/10/2026
+Última actualización: 25/10/2026
 
 Game Over App es una aplicación de escritorio para Windows creada por **rulink007** para pilotos de simracing (iRacing y Automobilista 2). Esta política explica qué datos usa la app, para qué y dónde quedan.
 
-**Resumen:** la app trabaja en tu PC. No tiene publicidad ni analítica, no vende datos y el desarrollador no recibe tu telemetría ni tus conversaciones. Solo se envían datos a otros servicios cuando tú usas una función que los necesita (lo explicamos abajo).
+**Resumen:** la app trabaja en tu PC. No tiene publicidad ni analítica, no vende datos y el desarrollador no recibe tu telemetría ni tus conversaciones. Solo se envían datos a otros servicios cuando tú usas una función que los necesita (lo explicamos abajo). En la versión gratuita, tus récords de vuelta y el resumen de tus carreras se publican en el Discord de Game Over.
 
 ## 1. Datos que se quedan en tu PC
 
@@ -30,7 +30,7 @@ Game Over App es una aplicación de escritorio para Windows creada por **rulink0
 | Móvil o tablet (opcional, apagado por defecto) | Tu red local | Los datos de la carrera en directo, solo dentro de tu Wi-Fi y con PIN. |
 | Reportar contenido de la IA | El desarrollador, por correo | Solo si pulsas «Reportar»: se abre tu correo con la respuesta reportada y tu comentario. Tú decides si lo envías. |
 | Mandar reporte (PERFIL › LICENCIA) | El servidor de Discord de Game Over (canal de reportes) | Solo si pulsas «Enviar reporte»: el texto que escribes, el contacto que pongas (opcional), la versión de la app, el simulador, la versión de Windows y, si lo marcas, el registro de errores del día. |
-| Récord de vuelta (opcional) | El servidor de Discord de Game Over (canal de resultados) | Solo si activas el aviso de récords: tu nombre de piloto, circuito, coche y tiempo de vuelta. |
+| Récord de vuelta y resumen de carrera | El servidor de Discord de Game Over (canales de resultados y de carreras) | **Versión gratuita:** se publica siempre, es la condición de la versión gratuita (lo aceptas en los términos de uso): tu nombre de piloto, simulador, circuito, coche, posición y tiempos. **Game Over PRO:** solo si lo tienes activado (TUTORIAL o JUGADOR); puedes desactivarlo cuando quieras. |
 | Aviso de versión nueva | Microsoft (catálogo público de la Microsoft Store) | La consulta de qué versión de la app está publicada (como cualquier navegador: tu dirección IP). No se envía ningún dato tuyo. |
 | Apoyo voluntario | PayPal | Lo que pide PayPal para el pago. Lo gestiona PayPal según su propia política; Game Over no ve ni guarda tus datos de pago. |
 
