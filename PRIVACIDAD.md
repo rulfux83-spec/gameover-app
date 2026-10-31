@@ -1,6 +1,6 @@
 # Política de privacidad de Game Over App
 
-Última actualización: 25/10/2026
+Última actualización: 31/10/2026
 
 Game Over App es una aplicación de escritorio para Windows creada por **rulink007** para pilotos de simracing (iRacing y Automobilista 2). Esta política explica qué datos usa la app, para qué y dónde quedan.
 
@@ -20,8 +20,7 @@ Game Over App es una aplicación de escritorio para Windows creada por **rulink0
 | Función | A quién | Qué se envía |
 |---|---|---|
 | Órdenes por voz (micrófono) | Google (reconocimiento de voz) | El audio de la frase que dices mientras la app escucha, para convertirlo en texto. La app no guarda grabaciones. Puedes apagar el micrófono en la app. |
-| Licencia PRO | Lemon Squeezy | Tu clave de licencia y un nombre de equipo (nombre del PC y un código anónimo) para activarla y comprobarla. |
-| Compra de PRO | Lemon Squeezy (vendedor oficial) | Lo que pides en el pago (nombre, correo, país y método de pago). Lo gestiona Lemon Squeezy según su propia política de privacidad. El desarrollador ve el nombre y el correo del comprador para dar soporte. |
+| Donaciones y pago de PRO | PayPal | Lo que indicas en el pago (nombre, correo, país y método de pago). Lo gestiona PayPal según su propia política de privacidad; la app solo abre la página de pago de PayPal y no recibe tus datos de pago. El desarrollador ve el nombre y el correo del pagador para dar soporte. |
 | Twitch, Spotify, Discord, Garage 61, API de iRacing, Trading Paints | El servicio que conectes | Lo necesario para esa función con los permisos que tú concedes (por ejemplo, leer el chat de tu canal o controlar tu música). Puedes desconectarlos cuando quieras. |
 | Webhook de Discord | Tu servidor de Discord | El resumen de tu sesión (piloto, circuito, posición y tiempos), solo si pones tu webhook. |
 | Clima y radar | Open-Meteo (previsión) y RainViewer (radar de lluvia) | Las coordenadas aproximadas del circuito y la petición del mapa (como cualquier navegador: tu dirección IP). |
@@ -31,6 +30,9 @@ Game Over App es una aplicación de escritorio para Windows creada por **rulink0
 | Reportar contenido de la IA | El desarrollador, por correo | Solo si pulsas «Reportar»: se abre tu correo con la respuesta reportada y tu comentario. Tú decides si lo envías. |
 | Mandar reporte (PERFIL › LICENCIA) | El servidor de Discord de Game Over (canal de reportes) | Solo si pulsas «Enviar reporte»: el texto que escribes, el contacto que pongas (opcional), la versión de la app, el simulador, la versión de Windows y, si lo marcas, el registro de errores del día. |
 | Récord de vuelta y resumen de carrera | El servidor de Discord de Game Over (canales de resultados y de carreras) | **Versión gratuita:** se publica siempre, es la condición de la versión gratuita (lo aceptas en los términos de uso): tu nombre de piloto, simulador, circuito, coche, posición y tiempos. **Game Over PRO:** solo si lo tienes activado (TUTORIAL o JUGADOR); puedes desactivarlo cuando quieras. |
+| Aviso de uso de la app (al abrirla) | El servidor de Game Over | Un identificador aleatorio de la instalación, la versión, el simulador elegido y el idioma. Desde la 1.0.2, también el **Steam ID** y el **nombre público de Steam** de la cuenta de Steam usada en tu PC, para que el administrador sepa quién usa la app y, si ese Steam está vinculado a tu cuenta online, unirlo a ella. Mientras la app está abierta, cada 5 minutos se envía un aviso con ese mismo identificador aleatorio para contar cuántos usuarios hay conectados ahora (solo se muestra el número total). |
+| Copia de la trayectoria (con la sesión online iniciada) | El servidor de Game Over | Desde la 1.0.2: el dinero, la reputación, las licencias y la lista de coches del garaje de tu modo trayectoria, para detectar y corregir trampas. Nada más de la trayectoria. |
+| Moderación de los servidores de Game Over | El servidor de Game Over | Si un administrador expulsa o bloquea a un piloto de los servidores, se guarda su Steam ID, su nombre y el motivo mientras dure el bloqueo. |
 | Aviso de versión nueva | Microsoft (catálogo público de la Microsoft Store) | La consulta de qué versión de la app está publicada (como cualquier navegador: tu dirección IP). No se envía ningún dato tuyo. |
 | Apoyo voluntario | PayPal | Lo que pide PayPal para el pago. Lo gestiona PayPal según su propia política; Game Over no ve ni guarda tus datos de pago. |
 
